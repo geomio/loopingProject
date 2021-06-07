@@ -1,15 +1,21 @@
 //area a
-let userCount = 6;
+let userCount = 66;
 let openArray =[]
 for (let index = 0; index <= userCount; index++) {
-    userCount[index] = index;
-    index.toString();
-    openArray.push(index);   
+    // userCount[index] = index;
+    const indexString = index.toString();
+    if(indexString.includes('3')) {
+        openArray.push('Welcome to the neighborhood.');
+    }else if (indexString.includes('2')) {
+        openArray.push('Boop.');
+    }else if (indexString.includes('1')) {
+        openArray.push('Beep.');
+    }else {
+        openArray.push(index);
+    }
+       
 }
 console.log(openArray);
 
 //Area a will count up to user input converts to a string and push it to open array
-
-// these two arrays below will compare and replace perspective integers
-let compare = ['1','2','3'];
-let replace = ['Beep', 'Boop', 'Wont you be my neighbor'];
+//    
