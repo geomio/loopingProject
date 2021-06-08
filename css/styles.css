@@ -1,0 +1,26 @@
+.container{
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+body{
+  background-color: lightgreen;
+}
+
+h1{
+  font-size: xx-large;
+  color: rgb(93, 73, 158);
+}
+
+h2{
+  font-size: x-large;
+  color: indigo;
+}
+
+h3{
+  font-size: medium;
+  color: rgb(93, 73, 158);
+}
