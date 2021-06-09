@@ -1,10 +1,11 @@
-#### Javascript 1.3.51  loop project beep, boop, welcome to the neighborhood number converter.
+#### Javascript 1.3.5.1  loop project beep, boop, welcome to the neighborhood number converter.
 
 ### Or b.b.w.t.t.n.n.c for short.
 
 # By Geoff Millner
 
 ## Specifications
+
 1.
 * The program will return a range of numbers from 0 up to the user input number
 * if 4 is the input
@@ -12,11 +13,13 @@
 
 2.
 * Output numbers will be converted to a string
+
 3.
 * output string numbers will be replaced by words
 * 1 will be replaced with Beep.
 * 2 will be replaced with Boop.
 * 3 will be replaced with Wont you be my neighbor.
+
 4.
 * after initial converting and replacing is finished results will be pushed to an array
 * array will be texted with proper spacing into the html paragraph area below the button
@@ -48,7 +51,7 @@ A basic html page linked to bootstrap and jquery that will allow users to enter 
 
   
 
-_{Check my github for info.}_
+*Check my github for info.*
 
   
 
@@ -63,5 +66,5 @@ _{Check my github for info.}_
 # License
 
   
-cc0 feel free to use. 2021 * by_geoff millner_*
+cc0 feel free to use. 2021 * by Geoff Millner *
 
