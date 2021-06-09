@@ -1,5 +1,7 @@
 #### Javascript 1.3.51  loop project beep, boop, welcome to the neighborhood number converter.
+
 ### Or b.b.w.t.t.n.n.c for short.
+
 # By Geoff Millner
 
 ## Specifications
@@ -19,7 +21,7 @@
 * after initial converting and replacing is finished results will be pushed to an array
 * array will be texted with proper spacing into the html paragraph area below the button
 * user can get new results by changing number and repressing submit button.
-5.
+
 
 ## Description
 
@@ -27,9 +29,9 @@ A basic html page linked to bootstrap and jquery that will allow users to enter 
   
 # Setup/Installation Requirements
 
-1. copy link 
+1. copy link https://github.com/geomio/loopingProject.git
 2. in the terminal navigate to desired folder
-3. type this into the terminal: git clone
+3. type or paste this into the terminal: git clone https://github.com/geomio/loopingProject.git
 4. navigate to clone destination folder
 5. open index.html with web browser
 
