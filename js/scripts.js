@@ -11,7 +11,7 @@ function masterNumberConvert(inputNumber) {
         }else {
             openArray.push(index);
         }      
-        }
+    }
         return openArray;
 };
 
