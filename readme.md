@@ -4,9 +4,21 @@
 
 ## Specifications
 1.
+* The program will return a range of numbers from 0 up to the user input number
+* if 4 is the input
+* output will be 0, 1, 2, 3, 4
+
 2.
+* Output numbers will be converted to a string
 3.
+* output string numbers will be replaced by words
+* 1 will be replaced with Beep.
+* 2 will be replaced with Boop.
+* 3 will be replaced with Wont you be my neighbor.
 4.
+* after initial converting and replacing is finished results will be pushed to an array
+* array will be texted with proper spacing into the html paragraph area below the button
+* user can get new results by changing number and repressing submit button.
 5.
 
 ## Description
