@@ -4,28 +4,6 @@
 
 # By Geoff Millner
 
-## Specifications
-
-1.
-* The program will return a range of numbers from 0 up to the user input number
-* if 4 is the input
-* output will be 0, 1, 2, 3, 4
-
-2.
-* Output numbers will be converted to a string
-
-3.
-* output string numbers will be replaced by words
-* 1 will be replaced with Beep.
-* 2 will be replaced with Boop.
-* 3 will be replaced with Wont you be my neighbor.
-
-4.
-* after initial converting and replacing is finished results will be pushed to an array
-* array will be texted with proper spacing into the html paragraph area below the button
-* user can get new results by changing number and repressing submit button.
-
-
 ## Description
 
 A basic html page linked to bootstrap and jquery that will allow users to enter a number and press a button that will count up to user number and replace 1, 2, and 3 with Beep, Boop, and Welcome to the neighborhood.and return a output
@@ -39,6 +17,22 @@ A basic html page linked to bootstrap and jquery that will allow users to enter 
 5. open index.html with web browser
 
 *must have computer with internet connection.*
+
+## Specifications
+
+
+1. The program will return a range of numbers from 0 up to the user input number
+  input: 4
+  output: 0, 1, 2, 3, 4
+
+2. output: numbers will be replaced by words/strings
+input: 1/ output: 'Beep.'
+input: 2/ output  'Boop.'
+input: 3/ output: 'Wont you be my neighbor.'
+
+3. User replaced input will be saved into outputArray
+input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
+converted user input will be displayed to user via html when button is clicked.
 
 # Known Bugs
 

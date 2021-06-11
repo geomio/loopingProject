@@ -1,24 +1,23 @@
 function masterNumberConvert(inputNumber) {
-    let openArray =[]
+    let outputArray =[]
     for (let index = 0; index <= inputNumber; index++) {
         const indexString = index.toString();
         if(indexString.includes('3')) {
-            openArray.push('Welcome to the neighborhood.');
+            outputArray.push('Welcome to the neighborhood.');
         }else if (indexString.includes('2')) {
-            openArray.push('Boop.');
+            outputArray.push('Boop.');
         }else if (indexString.includes('1')) {
-            openArray.push('Beep.');
+            outputArray.push('Beep.');
         }else {
-            openArray.push(index);
+            outputArray.push(index);
         }      
     }
-        return openArray;
+    return outputArray;
 };
 
 $(document).ready(function () {
     $("form#numbers").submit(function(event){
     const userInputNumber = $('input#htmlNumber').val();
-    console.log(userInputNumber);
     const convertedNumber = masterNumberConvert(userInputNumber);
     $("#returnOutput").text(convertedNumber.join(" "));
     event.preventDefault();
