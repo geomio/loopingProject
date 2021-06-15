@@ -32,7 +32,8 @@ input: 3/ output: 'Wont you be my neighbor.'
 
 3. User replaced input will be saved into outputArray
 * input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
-* outputArray is displayed on index.html when button is clicked.
+
+4. outputArray is displayed on index.html when button is clicked.
 
 # Known Bugs
 
