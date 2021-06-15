@@ -31,8 +31,8 @@ input: 2/ output  'Boop.'
 input: 3/ output: 'Wont you be my neighbor.'
 
 3. User replaced input will be saved into outputArray
-input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
-converted user input will be displayed to user via html when button is clicked.
+*input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
+*converted user input will be displayed to user via html when button is clicked.
 
 # Known Bugs
 
@@ -45,7 +45,7 @@ converted user input will be displayed to user via html when button is clicked.
 
   
 
-*Check my github for info.*
+*Check my github for info.
 
   
 
@@ -53,12 +53,12 @@ converted user input will be displayed to user via html when button is clicked.
 
   
 
-** Html5, bootstrap, Css, Javascript and Jquery made in Visual Studio Code. **
+ Html5, bootstrap, Css, Javascript and Jquery made in Visual Studio Code. 
 
   
 
 # License
 
   
-cc0 feel free to use. 2021 * by Geoff Millner *
+cc0 feel free to use. 2021 by Geoff Millner 
 
