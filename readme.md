@@ -31,8 +31,8 @@ input: 2/ output  'Boop.'
 input: 3/ output: 'Wont you be my neighbor.'
 
 3. User replaced input will be saved into outputArray
-*input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
-*converted user input will be displayed to user via html when button is clicked.
+* input: 4 = replaced input: 0, 'Beep', 'Boop', 'Wont you be my neighbor.', 4 
+* outputArray is displayed on index.html when button is clicked.
 
 # Known Bugs
 
